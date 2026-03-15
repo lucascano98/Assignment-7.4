@@ -12,3 +12,4 @@
 /Users/lucascano/Dev/sandbox/Assignment 7.4/obj/Debug/net10.0/Assignment 7.4.pdb
 /Users/lucascano/Dev/sandbox/Assignment 7.4/obj/Debug/net10.0/Assignment 7.4.genruntimeconfig.cache
 /Users/lucascano/Dev/sandbox/Assignment 7.4/obj/Debug/net10.0/ref/Assignment 7.4.dll
+/Users/lucascano/Dev/sandbox/Assignment 7.4/obj/Debug/net10.0/Assignment 7.4.sourcelink.json

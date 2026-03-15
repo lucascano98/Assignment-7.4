@@ -48,6 +48,10 @@ class Program
 {
     static void Main()
     {
+        Console.WriteLine("Input: [1, 1, 0] [1, 2, 3, 1]");
+        Console.WriteLine("\nOutput:");
+
+
         ParkingSystem parkingSystem = new ParkingSystem(1, 1, 0);
         Console.WriteLine(parkingSystem.addCar(1));
         Console.WriteLine(parkingSystem.addCar(2));
